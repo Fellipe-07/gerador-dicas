@@ -9,6 +9,7 @@ O objetivo do gerador é oferecer orientação rápida e acessível para quem de
   - Layout Responsivo
 
 
+<img width="882" height="632" alt="Captura de tela 2025-12-05 164645" src="https://github.com/user-attachments/assets/a4ed0e81-80bd-4c4e-8fa5-21200a6ade6f" />
 
     
 # Tecnologias Utilizadas
